@@ -20,12 +20,12 @@
 
 <p align="center">
   <a href="https://github.com/ArchishaT">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=42&duration=3000&pause=1.5&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=ARCHIE.EXE;HIGH+SCHOOL+DEV" alt="ARCHIE.EXE" />
+    
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4-PASSIVE_INCOME_ARCHITECT-E62429?style=for-the-badge&labelColor=081426" alt="Passive Income Architect">
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4-SYSTEMS_ARCHITECT-E62429?style=for-the-badge&labelColor=081426" alt="Passive Income Architect">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB-SYSTEMS_THINKER-1976D2?style=for-the-badge&labelColor=081426" alt="Systems Thinker">
   <img src="https://img.shields.io/badge/%F0%9F%A6%80+AI_NATIVE-E62429?style=for-the-badge&labelColor=081426" alt="AI Native">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D+REMOTE-FIRST-2BD576?style=for-the-badge&labelColor=081426" alt="Remote First">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <i>"With great code comes great responsibility."</i><br/>
-  <sub>Built <b>PulseWatch</b> (uptime SaaS) — a product that runs while I sleep.</sub>
+  
 </p>
 
 <!-- ============================================================
