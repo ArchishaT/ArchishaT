@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/ArchishaT">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=42&duration=3000&pause=1.5&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=ARCHIE.EXE;HIGH+SCHOOL+DEV+%2F%2F+BUILDING+A+LITTLE+WEIRD%2C+A+LITTLE+FUN" alt="ARCHIE.EXE" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=42&duration=3000&pause=1.5&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=ARCHIE.EXE;HIGH+SCHOOL+DEV" alt="ARCHIE.EXE" />
   </a>
 </p>
 
@@ -128,7 +128,7 @@
   <tr>
     <td width="100%" valign="top">
       <h3>StudyFlow</h3>
-      <p>Making studying easier</p>
+      <p></p>
       <p>
         <a href="https://github.com/ArchishaT/StudyFlow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
       </p>
@@ -151,14 +151,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>StudyFlow</h3>
-      <p>Making studying easier</p>
+      <p></p>
       <p>
         <a href="https://github.com/ArchishaT/StudyFlow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>CampusConnect</h3>
-      <p>One Campus, One mission, One app</p>
+      <p></p>
       <p>
         <a href="https://github.com/ArchishaT/CampusConnect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
         <a href="https://campus-connect-atdevops1.vercel.app"><img src="https://img.shields.io/badge/LIVE-2BD576?style=for-the-badge&labelColor=081426" alt="Live Demo"></a>
@@ -186,7 +186,7 @@
   <tr>
     <td width="100%" valign="top">
       <h3>Phoenix-Travels-and-Tours</h3>
-      <p>First full fledged website made back in 2021</p>
+      <p></p>
       <p>
         <a href="https://github.com/ArchishaT/Phoenix-Travels-and-Tours"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=EAF2FF&labelColor=081426" alt="GitHub"></a>
       </p>
